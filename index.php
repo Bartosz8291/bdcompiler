@@ -4,6 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>bdcompiler</title>
+<!-- Add a description for search engines and social media -->
+<meta name="description" content="bdcompiler - A compiler for multiple programming languages.">
+<!-- Set the apple-touch-icon for iOS devices -->
+<link rel="apple-touch-icon" href="https://malisipi.github.io/ubuntu-tour/icons/unsplash/Tjbk79TARiE.jpg">
 <style>
 body {
     background-image: url('https://malisipi.github.io/ubuntu-tour/icons/unsplash/Tjbk79TARiE.jpg');
